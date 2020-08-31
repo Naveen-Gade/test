@@ -1,1 +1,1 @@
-Getting familiar with got
+Getting familiar with git
